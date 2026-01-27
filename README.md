@@ -112,7 +112,7 @@ me.intro()
 
 * **Data Science Professional** – Oracle
 * **Generative AI Professional** – Oracle
-* * **AI Foundation Associate** - Oracle
+* **AI Foundation Associate** - Oracle
 * **Cloud Computing** – IIT Kharagpur
 * **Google IT Support** -- Google
 
