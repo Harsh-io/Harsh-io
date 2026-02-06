@@ -118,10 +118,14 @@ me.intro()
 * **Google IT Support** -- Google
 
 ---
-
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-io&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Harsh-io&theme=tokyonight&cache_seconds=1800)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-io&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 
 ![Followers](https://img.shields.io/github/followers/Harsh-io?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/Harsh-io?style=for-the-badge)
