@@ -121,14 +121,10 @@ me.intro()
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-io&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.vercel.app?user=Harsh-io&theme=tokyonight" />
-</div>
+## 📊 GitHub Stats
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-io&layout=compact&theme=tokyonight" />
-</div>
+![Followers](https://img.shields.io/github/followers/Harsh-io?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/Harsh-io?style=for-the-badge)
 
 ---
 
