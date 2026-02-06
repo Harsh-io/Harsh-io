@@ -85,14 +85,15 @@ me.intro()
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge\&logo=visual%20studio%20code)
 
 ---
-
 ## 🚀 Featured Projects
 
-| Project                                          | Description                                                                                                                                                  | Tech                          |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| **Smart Career Advisor**                         | ML-based career recommendation system analyzing academic performance, skills, and interests. Achieved **93.3% accuracy** using SVM, Decision Tree & XGBoost. | Python, Scikit-learn, XGBoost |
-| **Campus Course Registration Management System** | Java-based CLI system to manage student registrations, enrollments, and academic records using OOP principles.                                               | Java, OOP, File I/O           |
-| **Disease Outbreak Prediction (Internship)**     | Built an end-to-end ML pipeline to predict disease outbreaks with **92% accuracy** on 10k+ records.                                                          | Python, ML, Data Processing   |
+| Project | Description | Tech |
+|--------|-------------|------|
+| **Smart Career Advisor** | ML-based career recommendation system analyzing academic performance, skills, and interests. Achieved **93.3% accuracy** using SVM, Decision Tree & XGBoost. | Python, Scikit-learn, XGBoost |
+| **Agentic Honey-Pot for Scam Detection** | AI-powered honeypot API that detects scam messages, engages scammers using autonomous personas, extracts intelligence (UPI, phone, links), and reports results via API. | Python, FastAPI, Gemini AI, NLP |
+| **Campus Course Registration Management System** | Java-based CLI system to manage student registrations, enrollments, and academic records using OOP principles. | Java, OOP, File I/O |
+| **Disease Outbreak Prediction (Internship)** | Built an end-to-end ML pipeline to predict disease outbreaks with **92% accuracy** on 10k+ records. | Python, ML, Data Processing |
+
 
 ---
 
@@ -122,8 +123,9 @@ me.intro()
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-io&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-io&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.vercel.app?user=Harsh-io&theme=tokyonight" />
 </div>
+
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-io&layout=compact&theme=tokyonight" />
 </div>
