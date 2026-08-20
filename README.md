@@ -22,7 +22,7 @@ class HarshPatial:
         self.role = "Data Science & ML Enthusiast"
         self.location = "India 🇮🇳"
         self.education = "B.Tech CSE @ VIT Bhopal"
-        self.cgpa = "8.81/10"
+        self.cgpa = "8.9/10"
         self.skills = [
             "Machine Learning",
             "Data Analysis",
