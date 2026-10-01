@@ -19,27 +19,21 @@
 ```python
 class HarshPatial:
     def __init__(self):
-        self.role = "AI & ML Engineer in Progress"
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech CSE (AI & ML) @ VIT Bhopal"
-        self.cgpa = "8.89/10"
+        self.role = "GENAI & ML Engineer in Progress"
+        self.location = "Himachal Pradesh, India"
+        self.education = "B.Tech CSE (AI & ML) @ VIT"
+        self.cgpa = "8.9/10"
 
         self.skills = [
-            "Python",
-            "Machine Learning",
             "LLMs & Generative AI",
-            "RAG",
-            "AI Agents",
+            "RAG & AI Agents",
             "FastAPI",
             "Vector Databases",
-            "Computer Vision"
         ]
-
         self.focus = "Building practical AI-powered systems"
 
     def intro(self):
         print("Always learning. Always building. 🚀")
-
 
 me = HarshPatial()
 me.intro()
@@ -215,19 +209,14 @@ An AI-powered speaking and interview practice platform that provides visual and 
 * 🥈 **National Semi-finalist** — Economic Times GenAI Hackathon, 2026
 * 🏅 **Top 10 Teams** — Summer of Codefest'25, VIT Bhopal University
 * 💻 **Codeforces Rating:** 922 Peak
-* 🤖 **OCI Certified AI Foundations Associate**
 
 ---
 
 ## 📜 Certifications
 
 * ☁️ **AWS AI Certified**
-* 🧠 **OCI Certified Data Science Professional**
 * 🤖 **OCI Certified AI Foundations Associate**
-* ☁️ **Google Cloud Generative AI — Virtual Internship**
-* ⚙️ **ServiceNow Virtual Internship — AICTE & SmartBridge**
-* 🛰️ **India Space Lab — Summer Internship Program**
-
+* 🧠 **OCI Certified Data Science Professional**
 ---
 
 ## 🏫 Education
@@ -235,7 +224,7 @@ An AI-powered speaking and interview practice platform that provides visual and 
 **Bachelor of Technology in Computer Science and Engineering (AI & ML)**
 **Vellore Institute of Technology**
 August 2023 – August 2027
-**CGPA: 8.89 / 10**
+**CGPA: 8.9 / 10**
 
 ---
 
