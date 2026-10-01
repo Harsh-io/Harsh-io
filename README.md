@@ -1,6 +1,6 @@
 # <div align="center">🚀 Welcome to My GitHub</div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there!+👋;I'm+Harsh+Patial;AI+%26+ML+Engineer+in+Progress;Building+Practical+AI+Solutions;LLMs+%7C+RAG+%7C+AI+Agents" />
 </div>
 
@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
+--- -->
 
 ## 👨‍💻 About Me
 
