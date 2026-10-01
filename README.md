@@ -155,52 +155,27 @@ An AI-powered speaking and interview practice platform that provides visual and 
 🔗 **Live Project:** https://eva-speak.vercel.app
 
 ---
-
 ## 🧪 Programs & Internships
+
+### 🤖 AI Intern | Edunet Foundation – TechSaksham
+
+**Dec 2024 – Jan 2025**
+Developed a **Disease Classification & Outbreak Analysis** ML pipeline using historical disease and environmental data, achieving **85%+ accuracy** with Decision Trees, Random Forests, and Neural Networks.
 
 ### 🛰️ India Space Lab | Summer Internship Program
 
-**Duration:** June 17, 2026 – July 31, 2026
+**June 2026 – July 2026**
+Explored **Drone Technology, CanSat/CubeSat, Remote Sensing & GIS, Rocketry, and Disaster Management**, with hands-on projects in autonomous navigation, GCS design, and rocket fin analysis.
 
-**Domains Learned:**
+### ☁️ Google Cloud | Virtual Internship – Generative AI
 
-* Advanced Drone Technology
-* CanSat & CubeSat / Satellite Systems
-* Remote Sensing & GIS
-* Rocketry Training
-* Disaster Management
-
-**Completed Projects:**
-
-* PID Controller Tuning and Autonomous Navigation
-* Designing of GCS for CanSat
-* Structural and Aerodynamic Evaluation of a Rocket Fin using Simsde
-
----
-
-### ☁️ Google Cloud | Virtual Internship Program – Generative AI
-
-**Duration:** July 14, 2025 – September 1, 2025
-
-* Learned and practically applied Google Cloud Generative AI concepts.
-* **Certificate ID:** VIP-AI-2025-1499
-
----
+**July 2025 – September 2025**
+Hands-on learning and application of **Google Cloud Generative AI** concepts.
 
 ### ⚙️ ServiceNow | Virtual Internship Program
 
-**Completed:** May 29, 2026
-
-**Core Focus:**
-
-* ServiceNow Administration Fundamentals
-* Introduction to Agentic AI
-* Automated Test Framework (ATF) Essentials
-* Flows
-* Reports
-* Preparation for the Certified System Administrator (CSA) Exam
-
-**Partnership:** AICTE & SmartBridge
+**May 2026**
+Completed training in **ServiceNow Administration, Agentic AI, ATF, Flows, and Reports**, with preparation for the CSA exam through **AICTE & SmartBridge**.
 
 ---
 
@@ -218,32 +193,22 @@ An AI-powered speaking and interview practice platform that provides visual and 
 * 🤖 **OCI Certified AI Foundations Associate**
 * 🧠 **OCI Certified Data Science Professional**
 ---
-
-## 🏫 Education
-
-**Bachelor of Technology in Computer Science and Engineering (AI & ML)**
-**Vellore Institute of Technology**
-August 2023 – August 2027
-**CGPA: 8.9 / 10**
-
----
-
 ## 🤝 Extracurricular Activities
 
 ### 🧠 AI Innovators Hub
-
 **Content Team Member | 2025 – Present**
 
-* Collaborated on **Darzi AI Smart Resume Maker**
+<!-- * Collaborated on **Darzi AI Smart Resume Maker**
 * Contributed to ideation, feature planning, problem-solving and iterative development
+-->
 
 ### 💳 Fintech Club
 
 **Event & Operations Team | 2024 – August 2025**
-
+<!-- 
 * Coordinated **5+ technical and non-technical events**
 * Contributed to participant engagement and event operations
-
+-->
 ---
 
 ## 📊 GitHub Stats
