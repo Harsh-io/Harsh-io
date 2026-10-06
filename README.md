@@ -7,12 +7,28 @@
 <p><b>Building intelligent systems while learning, solving, and shipping.</b></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/harsh-patial-86b98a332/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harsh.work211@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Harsh-io/My-Resume"><img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+  <a href="https://www.linkedin.com/in/harsh-patial-86b98a332/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:harsh.work211@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Harsh-io/My-Resume">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://x.com/HarshRajpu34981">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.instagram.com/_harshpatial/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <br/>
-  <a href="https://codeforces.com/profile/Harsh_Patial"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.leetcode.com/u/HarshPatial/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://codeforces.com/profile/Harsh_Patial">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://leetcode.com/u/HarshPatial/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
 </div>
@@ -82,13 +98,13 @@ me.intro()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsh-io&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Harsh-io&show_icons=true&theme=dark&hide_border=true" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-io&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-io&theme=dark&hide_border=true" />
+<img width="75%" src="https://streak-stats.demolab.com/?user=Harsh-io&theme=dark&hide_border=true" />
 
 </div>
 
@@ -108,12 +124,11 @@ me.intro()
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
 </p>
 
-## 🔹 AI / ML, Computer Vision & NLP
+## 🔹 Computer Vision & NLP
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge&logo=probot&logoColor=white" alt="NLP" />
   <img src="https://img.shields.io/badge/Computer%20Vision-1565C0?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" />
   <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge" alt="Whisper" />
@@ -199,56 +214,41 @@ me.intro()
 
 ---
 
-# 🏆 Achievements & Certifications
+### 🏆 Achievements & Milestones
 
-- 🥈 **National Semi-finalist** — Economic Times GenAI Hackathon, 2026
-- 🏅 **Top 10 Teams** — Summer of Codefest'25, VIT Bhopal University
-- 💻 **800+ DSA Problems Solved**
-- 📈 **Codeforces Rating:** 922 Peak
-- ☁️ **AWS Certified AI Practitioner**
-- 🤖 **Oracle OCI Certified AI Foundations Associate**
-- 🧠 **Oracle Certified Data Science Professional**
+I love challenging myself under pressure, whether it's optimizing a sorting algorithm or building a prototype in 24 hours.
 
+- ⚔️ **Competitive Programming:**
+  - **800+ DSA Problems Solved** across competitive programming platforms.
+  - Active competitor on **Codeforces** with a peak rating of **922**.
+
+- 🏅 **Hackathons & Competitions:**
+  - **National Semi-Finalist** at the *Economic Times GenAI Hackathon*, 2026.
+  - **Top 10 Teams** at *Summer of Codefest'25*, VIT Bhopal University.
+  - **Certificate of Honor** at the *Cognizant Technoverse Hackathon* (Team Black Diamonds).
+
+- 📜 **Certifications:**
+  - **AWS Certified AI Practitioner**.
+  - **Oracle Certified AI Foundations Associate**.
+  - **Oracle Certified Data Science Professional**.
 ---
 
 ## 🤝 Extracurricular Activities
 
 ### 🧠 AI Innovators Hub
+
 **Content Team Member | 2025 – Present**  
 Contributed to content, ideation, feature planning, and collaborative development.
 
 ### 💳 Fintech Club
+
 **Event & Operations Team | 2024 – August 2025**  
 Contributed to event coordination, participant engagement, and operations.
-<!-- 
----
 
-# 📈 GitHub Activity
+---
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-io&theme=github-compact&hide_border=true" width="95%"/>
-
-</div>
-
---- -->
-
-<div align="center">
-
-<!-- # 📫 Reach Out -->
----
-
-📫 Reach out at: [**harsh.work211@gmail.com**](mailto:gummybearansh@gmail.com) | 📄 View my [**Resume**](https://github.com/Harsh-io/My-Resume)
-
-</div>
-
-
-<!-- <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Harsh-io&style=for-the-badge&color=blue" alt="Profile Views"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Keep%20Learning%20🚀&fontSize=36" /> -->
+📫 Reach out at: [**harsh.work211@gmail.com**](mailto:harsh.work211@gmail.com) | 📄 View my [**Resume**](https://github.com/Harsh-io/My-Resume)
 
 </div>
